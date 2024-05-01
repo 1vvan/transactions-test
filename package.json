@@ -1,0 +1,16 @@
+{
+  "name": "transactions-test",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "jest"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "date-fns": "^3.6.0"
+  },
+  "devDependencies": {
+    "jest": "^28.0.0"
+  }
+}
